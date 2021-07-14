@@ -1,0 +1,35 @@
+name: empty_flutter
+description: A Project with my base setup for flutter
+
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  get:
+  firebase_core:
+  firebase_auth:
+  cloud_firestore:
+  shared_preferences:
+  sqflite:
+  path_provider:
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true
+
+        
+    
+    
+                                      
