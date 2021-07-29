@@ -29,7 +29,24 @@ dev_dependencies:
 flutter:
   uses-material-design: true
 
-        
+
+#  assets:
+#    - assets/images/flags/tg.png
+#
+#  fonts:
+#    - family:  CustomIcons
+#      fonts:
+#        - asset: assets/fonts/custom-icons.ttf
+#    - family: Roboto
+#      fonts:
+#        - asset: assets/fonts/roboto/Roboto-Bold.ttf
+#          weight: 700
+#        - asset: assets/fonts/roboto/Roboto-Regular.ttf
+#          weight: 400
+
+
+
+
     
     
                                       
